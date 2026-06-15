@@ -2,6 +2,14 @@
 
 A full-stack personal portfolio website built as Task 1 of my Full Stack Web Development Internship at Future Interns.
 
+## 📸 Preview
+
+![Hero Section](screenshots/preview-hero.png)
+![Skills Section](screenshots/preview-skills.png)
+![Projects Section](screenshots/preview-projects.png)
+![Experience Section](screenshots/preview-experience.png)
+![Contact Section](screenshots/preview-contact.png)
+
 ## 🛠️ Tech Stack
 
 Frontend:
@@ -67,4 +75,8 @@ CREATE TABLE contacts (
 ```
 
 ## 👩‍💻 Author
+<<<<<<< HEAD
 Roshani — [GitHub](https://github.com/Rosh0005) | [LinkedIn](https://www.linkedin.com/in/roshani-jha-19767236a/)
+=======
+Roshani — [GitHub](https://github.com/Rosh0005) | [LinkedIn](https://www.linkedin.com/in/roshani-jha-19767236a/)
+>>>>>>> 117c031 (docs: added screenshots to README)
